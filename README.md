@@ -6,7 +6,7 @@ This is the learning record of vs code git commands.
 ## 2022/10/19
 
 * Install git for windows
-* Install git extension pack
+* Install git extension pack in vs code
 * Create and update index.tex **success**
 * Commit index.tex **Success**
 * Push index.tex **failure**
@@ -16,3 +16,9 @@ This is the learning record of vs code git commands.
 * Restart sv code
 * Push index.tex **success**
 * Sync index.tex **success**
+
+## 2022/10/20
+* Chnage the default shell in vs code
+  * Command Palette
+  * Search **Terminal: Select Default Profile**
+  * Choose **Git Bash**
